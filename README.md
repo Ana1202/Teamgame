@@ -23,8 +23,8 @@ Hilo is played according to the following rules:
 ---- Python 3.8.0
 
 Team:
-Ari-John Katia
-Quincy Brokaw
-Skyluu Schleich
-Sergio Benavides
-Ana Sanchez
+Ari-John Katia - 
+Quincy Brokaw - 
+Skyluu Schleich - 
+Sergio Benavides - 
+Ana Sanchez- 
